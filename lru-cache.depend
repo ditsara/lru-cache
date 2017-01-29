@@ -1,4 +1,16 @@
 # depslib dependency file v1.0
-1485683097 source:/home/ditsara/Development/lru-cache/main.cpp
+1485689604 source:/home/ditsara/Development/lru-cache/main.cpp
 	<iostream>
+	<string>
+	<ctime>
+	<unordered_map>
+	"elements.h"
+
+1485689564 source:/home/ditsara/Development/lru-cache/elements.cpp
+	<string>
+	"elements.h"
+
+1485689667 /home/ditsara/Development/lru-cache/elements.h
+	<ctime>
+	<string>
 
